@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bros-SO
+- 👀 I’m interested in everything JS
+- 🌱 I’m currently learning the MERN stack
+- 💞️ I’m looking to collaborate on an open-source project
+- 📫 Reach me via github.
